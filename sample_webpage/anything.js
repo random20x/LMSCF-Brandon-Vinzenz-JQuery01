@@ -1,3 +1,11 @@
+$("a").attr("href","www.codefactory.wien");
+
+$("code").css("color","red");
+
+$("ol:has(li)").css("background-color", "#2A7B90");
+
+$("textarea").attr("placeholder","Express your opinion");
+
 $("img").attr("src","https://www.codefactory.wien/wp-content/uploads/2018/03/codefactory-vienna-footer-h.jpg");
 
 $("textarea").attr("placeholder","Express your opinion");
